@@ -1,0 +1,10 @@
+{
+  "name": "My Castle Town (Deltarune chapter 2)",
+  "description": "The  castle town theme from chapter 2 of Deltarune, by Toby Fox.",
+  "author": "Jaco2400",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
